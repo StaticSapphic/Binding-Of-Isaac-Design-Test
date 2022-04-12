@@ -6911,3 +6911,867 @@ Script call stack:
 [2022.04.12-21.09.04:706][ 20]AssetCheck: New page: Asset Save: multiple assets
 [2022.04.12-21.09.04:706][ 20]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.04.12-21.09.04:706][ 20]LogContentValidation: Display: Validating BlackboardData /Game/ThirdPersonBP/Blueprints/EnemyBlackboard.EnemyBlackboard
+[2022.04.12-21.10.25:881][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.04.12-21.11.17:007][458]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.04.12-21.11.18:317][458]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.12-21.11.18:325][458]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.12-21.11.18:348][458]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.12-21.11.23:750][867]LogContentBrowser: Attempting asset rename: NewBlueprint -> Heal
+[2022.04.12-21.11.23:754][867]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/Heal.
+[2022.04.12-21.11.23:755][867]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.12-21.11.25:411][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Heal.Heal
+[2022.04.12-21.11.36:368][805]LogContentBrowser: Deferred new asset file creation: Red1
+[2022.04.12-21.11.36:396][805]LogContentBrowser: Creating deferred item: Red1
+[2022.04.12-21.11.37:610][898]LogContentBrowser: Attempting asset rename: Red1 -> Heal
+[2022.04.12-21.11.37:611][898]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.37:618][898]LogContentBrowser: End creating deferred item Red1
+[2022.04.12-21.11.37:635][899]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.04.12-21.11.37:635][899]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.11.37:635][899]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.04.12-21.11.38:929][957]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Materials/Heal.Heal
+[2022.04.12-21.11.38:931][957]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.38:938][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.04.12-21.11.39:004][957]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.39:013][957]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.39:032][957]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.12-21.11.39:055][957]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.39:834][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2022.04.12-21.11.39:917][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2022.04.12-21.11.40:171][ 12]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.04.12-21.11.40:189][ 13]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2022.04.12-21.11.40:542][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.04.12-21.11.40:584][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.04.12-21.11.40:629][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.04.12-21.11.40:879][ 45]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.04.12-21.11.41:023][ 53]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.04.12-21.11.41:312][ 68]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.04.12-21.11.41:397][ 72]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.04.12-21.11.41:496][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.04.12-21.11.41:566][ 82]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.04.12-21.11.41:585][ 83]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.11.41:585][ 83]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.11.41:585][ 83]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.11.41:585][ 83]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.12-21.11.41:726][ 92]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.04.12-21.11.41:904][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.04.12-21.11.42:013][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.04.12-21.11.42:129][117]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.04.12-21.11.42:799][157]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.12-21.11.43:155][179]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.43:173][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.12-21.11.43:182][179]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.43:206][180]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2022.04.12-21.11.43:345][189]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2022.04.12-21.11.43:662][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.04.12-21.11.43:927][224]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2022.04.12-21.11.43:942][225]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2022.04.12-21.11.44:014][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2022.04.12-21.11.44:079][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.04.12-21.11.44:492][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.04.12-21.11.44:626][263]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.04.12-21.11.44:675][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2022.04.12-21.11.44:757][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2022.04.12-21.11.45:090][290]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.45:102][290]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.04.12-21.11.45:104][290]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2022.04.12-21.11.45:110][290]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.12-21.11.45:124][290]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.45:150][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.12-21.11.45:150][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2022.04.12-21.11.45:311][302]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.04.12-21.11.45:647][318]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2022.04.12-21.11.45:746][324]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.04.12-21.11.45:793][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.04.12-21.11.45:879][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.04.12-21.11.46:159][344]LogMaterialEditor: Saving and Compiling material Heal
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2022.04.12-21.11.46:838][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.04.12-21.11.46:849][344]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.46:879][344]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.12-21.11.46:916][344]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.47:012][344]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2022.04.12-21.11.47:022][344]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.12-21.11.47:585][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 28
+[2022.04.12-21.11.47:585][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2022.04.12-21.11.47:585][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.04.12-21.11.47:585][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2022.04.12-21.11.48:145][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2022.04.12-21.11.48:145][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.04.12-21.11.48:704][344]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.12-21.11.48:968][344]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.04.12-21.11.48:968][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.11.48:968][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.04.12-21.11.48:971][344]TextureStreamingBuild: Display: Compiling optional shaders took 1.956 seconds.
+[2022.04.12-21.11.49:048][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.12-21.11.50:210][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.04.12-21.11.50:210][344]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.12-21.11.50:688][344]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.12-21.11.50:875][344]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/HealFAB3BE2F417012E7CCA6ACBC3CEFF473.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Materials/Heal.uasset'
+[2022.04.12-21.11.50:925][344]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.11.50:925][344]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP/Materials/Heal.Heal
+[2022.04.12-21.11.50:928][344]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.11.50:935][344]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.11.50:935][344]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.11.50:935][344]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.11.50:935][344]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.12-21.11.50:943][345]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.04.12-21.11.50:943][345]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.11.50:943][345]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.04.12-21.11.53:999][515]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal4E6288A94FBE0AE5FDE76BA961A61084.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Heal.uasset'
+[2022.04.12-21.11.54:017][515]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/Heal.
+[2022.04.12-21.11.54:026][515]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.11.54:026][515]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Heal.Heal
+[2022.04.12-21.12.18:877][304]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.04.12-21.12.20:893][304]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.12-21.12.21:044][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.04.12-21.12.21:091][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.04.12-21.12.21:135][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.12-21.12.21:180][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.12-21.12.21:227][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.12-21.12.21:274][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.12-21.12.21:330][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.04.12-21.12.21:375][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.GenericEnemy_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:507][208]LogMetaData: Removing '/Game/Blueprints/GenericEnemy.SKEL_GenericEnemy_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/GenericEnemy.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.Spikes_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C:BndEvt__Spikes_TriggerBox_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:510][208]LogMetaData: Removing '/Game/Blueprints/Spikes.SKEL_Spikes_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Spikes.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.SKEL_TearProjectile_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.SKEL_TearProjectile_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.SKEL_TearProjectile_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.SKEL_TearProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.SKEL_TearProjectile_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/TearProjectile.TearProjectile_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/TearProjectile.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:Death' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ShootTear' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_ShootRight_K2Node_InputAxisEvent_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_ShootForward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:Death' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:513][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ShootTear' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/DeathUI.DeathUI_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/DeathUI.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/DeathUI.SKEL_DeathUI_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/DeathUI.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/DeathUI.DeathUI_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/DeathUI.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/DeathUI.SKEL_DeathUI_C:BndEvt__DeathUI_BTN_Restart_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/DeathUI.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/DeathUI.SKEL_DeathUI_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/DeathUI.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.MainHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.MainHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.MainHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.MainHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.SKEL_MainHUD_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.MainHUD_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.SKEL_MainHUD_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:516][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.SKEL_MainHUD_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/MainHUD.SKEL_MainHUD_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/MainHUD.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.SKEL_Poop_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:517][208]LogMetaData: Removing '/Game/Blueprints/Poop.Poop_C:ReceiveAnyDamage' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Poop.PackageMetaData'
+[2022.04.12-21.12.34:520][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.StationaryCamera:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:520][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.StationaryCamera_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.StationaryCamera:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.StationaryCamera:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.StationaryCamera:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.SKEL_StationaryCamera_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.SKEL_StationaryCamera_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.SKEL_StationaryCamera_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.SKEL_StationaryCamera_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:521][208]LogMetaData: Removing '/Game/Blueprints/StationaryCamera.SKEL_StationaryCamera_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/StationaryCamera.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.Heal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.SKEL_Heal_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.SKEL_Heal_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.Heal_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.Heal:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.Heal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:524][208]LogMetaData: Removing '/Game/Blueprints/Heal.Heal:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Heal.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyBehaviourTree.EnemyBehaviourTree:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyBehaviourTree.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.EnemyController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.EnemyController_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.EnemyController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.EnemyController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.EnemyController_C:ReceivePossess' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:StartEnemyTimer' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:BndEvt__EnemyController_AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:ReceivePossess' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:525][208]LogMetaData: Removing '/Game/Blueprints/EnemyController.SKEL_EnemyController_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/EnemyController.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/BTT_ChasePlayer.BTT_ChasePlayer_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/BTT_ChasePlayer.BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/BTT_ChasePlayer.SKEL_BTT_ChasePlayer_C:ReceiveExecuteAI' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BTT_ChasePlayer.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.Upgrade:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.SKEL_Upgrade_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.Upgrade_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.Upgrade:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.Upgrade_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.Upgrade_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.SKEL_Upgrade_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.SKEL_Upgrade_C:BndEvt__Upgrade_Collider_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:526][208]LogMetaData: Removing '/Game/Blueprints/Upgrade.SKEL_Upgrade_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrade.PackageMetaData'
+[2022.04.12-21.12.34:529][208]LogMetaData: Removing '/Game/Blueprints/Upgrades.Upgrades' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Upgrades.PackageMetaData'
+[2022.04.12-21.12.34:583][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/GenericEnemyB9A80B924279F9C0E4996A8911899823.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/GenericEnemy.uasset'
+[2022.04.12-21.12.34:586][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/GenericEnemy2ED0F8DA46E7973999EFABA9F1A1C8E3.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/GenericEnemy.uasset'
+[2022.04.12-21.12.34:612][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Spikes337339E344AF8F8D0EAF4EB07E19BCD4.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Spikes.uasset'
+[2022.04.12-21.12.34:614][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/SpikesE58DCF5444D24008122299B79D817345.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Spikes.uasset'
+[2022.04.12-21.12.34:642][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/TearProjectile4721B938446165061015479BCFD47C43.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/TearProjectile.uasset'
+[2022.04.12-21.12.34:708][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonCharacter305EAC0C4898C205906597A450B8FDC8.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.12-21.12.34:712][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonCharacter0AE4CD4A4DA547ED094606931468E477.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.12-21.12.34:727][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/DeathUI7837F901411EC6C30221F688496CC9DA.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/DeathUI.uasset'
+[2022.04.12-21.12.34:744][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/MainHUD9B0F0BC54F03DE1166FBB1AD1D9C410C.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/MainHUD.uasset'
+[2022.04.12-21.12.34:769][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/PoopFAD2F22E4818BB3EC6A722A9E20C77BB.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Poop.uasset'
+[2022.04.12-21.12.34:771][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/PoopA354335C47DD9F91ACA4CE9066A0BA64.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Poop.uasset'
+[2022.04.12-21.12.34:778][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/StationaryCameraCA09522945F8037042D464B58381773C.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/StationaryCamera.uasset'
+[2022.04.12-21.12.34:781][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/StationaryCamera46E3DFAD4BC1FD246979EA9AE3BC2412.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/StationaryCamera.uasset'
+[2022.04.12-21.12.34:786][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonGameMode22C8E6D74885802A887C3483F7C8D325.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/ThirdPersonGameMode.uasset'
+[2022.04.12-21.12.34:790][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/HealC3566E5844470A47DEB079AA245B416F.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.12.34:795][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/EnemyBehaviourTree4C427D9645308420C9D2B48435295F97.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/EnemyBehaviourTree.uasset'
+[2022.04.12-21.12.34:797][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/EnemyBlackboardC69D0CCC41AFB3418ED90A87CD61D120.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/EnemyBlackboard.uasset'
+[2022.04.12-21.12.34:820][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/EnemyControllerA6493A6A404C67F40BC6999971B39ED7.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/EnemyController.uasset'
+[2022.04.12-21.12.34:825][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/BTT_ChasePlayerBB2199F4441E23EEFBABA88B9E55974B.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/BTT_ChasePlayer.uasset'
+[2022.04.12-21.12.34:862][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Upgrade2DF2EBD54D2769863D86749C1BC22478.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Upgrade.uasset'
+[2022.04.12-21.12.34:866][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Upgrade03971145467006C1E3FD02A502F7929D.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Upgrade.uasset'
+[2022.04.12-21.12.34:869][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Upgrades65BF3E834AA79573487220A52BF76712.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Upgrades.uasset'
+[2022.04.12-21.12.35:190][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.04.12-21.12.35:252][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.12-21.12.35:296][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.12-21.12.35:341][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.04.12-21.12.35:387][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.12-21.12.35:431][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.12-21.12.35:474][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.12-21.12.35:519][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.12-21.12.35:562][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.12-21.12.35:608][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.12-21.12.35:663][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.04.12-21.12.35:708][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.12-21.12.35:775][208]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2022.04.12-21.12.35:775][208]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2022.04.12-21.12.35:775][208]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2022.04.12-21.12.35:775][208]LogMetaData: Removing '/Game/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2022.04.12-21.12.35:916][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMap_BuiltData8C52767B4BCBB6DB8B2BE88D677F2F71.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.12-21.12.35:966][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.12-21.12.35:995][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMapE9965D81430A92C2430FE9BC723DD5D7.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.04.12-21.12.35:999][208]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.082
+[2022.04.12-21.12.36:136][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.04.12-21.12.36:179][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.12-21.12.36:233][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.04.12-21.12.36:276][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.12-21.12.36:390][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Red" FILE="../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Red.uasset" SILENT=true
+[2022.04.12-21.12.36:395][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/RedE20A3540445208D8901A0C88FBBD3FAE.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Red.uasset'
+[2022.04.12-21.12.36:411][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Brown371EC7F7429C4BC24054A5997013308C.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Brown.uasset'
+[2022.04.12-21.12.36:427][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal7CCF5A304CBBD844D38EC5A4D74883EE.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Heal.uasset'
+[2022.04.12-21.12.36:444][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ItemADCEA41144A2578092857DBA4D73D186.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Item.uasset'
+[2022.04.12-21.12.36:635][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.12-21.12.36:678][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.12-21.12.36:722][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.12-21.12.36:766][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.04.12-21.12.36:818][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.04.12-21.12.36:863][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.12-21.12.36:894][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Spikes9F4BBA1B455063D7505B68936DA0E393.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Spikes.uasset'
+[2022.04.12-21.12.36:896][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/GenericEnemyF11B94D54A568E42AA517180B8469ACA.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/GenericEnemy.uasset'
+[2022.04.12-21.12.36:898][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonCharacterEE97217444205A631322669738FBE830.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.12-21.12.36:901][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/PoopE2BD70D848CEB9FDBE5280A99FB733B9.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Poop.uasset'
+[2022.04.12-21.12.36:903][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Upgrade9AE253F84EEEA7C75BDBD4AE7FF30BD1.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonBP/Blueprints/Upgrade.uasset'
+[2022.04.12-21.12.36:990][208]LogMetaData: Removing '/Game/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2022.04.12-21.12.36:990][208]LogMetaData: Removing '/Game/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2022.04.12-21.12.37:032][208]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonOverview8021BB00462FF39604C3F5BF424D1C79.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/ThirdPersonOverview.uasset'
+[2022.04.12-21.12.37:156][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.04.12-21.12.37:208][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.04.12-21.12.37:250][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.12-21.12.37:293][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/GenericEnemy.
+[2022.04.12-21.12.37:297][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Spikes.
+[2022.04.12-21.12.37:301][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/TearProjectile.
+[2022.04.12-21.12.37:303][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/ThirdPersonCharacter.
+[2022.04.12-21.12.37:307][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/DeathUI.
+[2022.04.12-21.12.37:309][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/MainHUD.
+[2022.04.12-21.12.37:311][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Poop.
+[2022.04.12-21.12.37:314][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/StationaryCamera.
+[2022.04.12-21.12.37:317][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/ThirdPersonGameMode.
+[2022.04.12-21.12.37:318][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Heal.
+[2022.04.12-21.12.37:321][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/EnemyController.
+[2022.04.12-21.12.37:322][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/BTT_ChasePlayer.
+[2022.04.12-21.12.37:324][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Upgrade.
+[2022.04.12-21.12.37:327][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Maps/ThirdPersonExampleMap.
+[2022.04.12-21.12.37:328][208]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonOverview.
+[2022.04.12-21.12.37:337][208]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating Material /Game/Materials/Red.Red
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GenericEnemy.GenericEnemy
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Spikes.Spikes
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TearProjectile.TearProjectile
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.12-21.12.37:337][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/DeathUI.DeathUI
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/MainHUD.MainHUD
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Upgrade.Upgrade
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating Material /Game/Materials/Brown.Brown
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Poop.Poop
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/StationaryCamera.StationaryCamera
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Upgrade.Default__Upgrade_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Upgrade.Upgrade_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/StationaryCamera.StationaryCamera
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/StationaryCamera.Default__StationaryCamera_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/StationaryCamera.StationaryCamera_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Poop.Poop
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Poop.Default__Poop_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Poop.Poop_C
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.12-21.12.37:338][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Spikes.Spikes
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Spikes.Default__Spikes_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/Spikes.Spikes_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/GenericEnemy.GenericEnemy
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/GenericEnemy.Default__GenericEnemy_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/GenericEnemy.GenericEnemy_C
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Material /Game/Materials/Heal.Heal
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonOverview.ThirdPersonOverview
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Material /Game/Materials/Item.Item
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/EnemyBehaviourTree.EnemyBehaviourTree
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/EnemyBlackboard.EnemyBlackboard
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EnemyController.EnemyController
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BTT_ChasePlayer.BTT_ChasePlayer
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Upgrade.Upgrade
+[2022.04.12-21.12.37:339][208]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Upgrades.Upgrades
+[2022.04.12-21.12.52:735][250]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.04.12-21.12.55:689][250]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.12-21.12.59:665][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.04.12-21.13.00:586][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.12-21.13.00:631][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.04.12-21.13.00:678][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.12-21.13.00:722][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.04.12-21.13.00:769][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.12-21.13.00:816][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.12-21.13.00:874][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.04.12-21.13.00:918][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.12-21.13.06:203][860]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.12-21.13.06:204][860]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.04.12-21.13.06:204][860]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter'
+[2022.04.12-21.13.07:752][958]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.04.12-21.13.07:752][958]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.04.12-21.13.07:752][958]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode'
+[2022.04.12-21.13.16:295][465]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.04.12-21.13.17:579][465]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.12-21.13.17:722][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.04.12-21.13.17:778][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.04.12-21.13.17:823][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.04.12-21.13.42:359][108]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.13.42:429][108]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2022.04.12-21.13.42:857][134]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/HealA8E68F3B4C7591FD4E0575A875CFF3D6.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.13.42:877][134]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.13.42:877][134]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.13.52:357][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.04.12-21.13.55:036][883]LogEditorViewport: Clicking on Actor (LMB): Heal_C (Heal)
+[2022.04.12-21.13.56:773][989]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.04.12-21.13.56:804][989]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMapC9FB054140A81E439CC94EBE4C900C90.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.04.12-21.13.56:909][989]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMap_BuiltData5802DF4149D0B066CA9829BC4D159CCC.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.12-21.13.56:929][989]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.12-21.13.56:929][989]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.12-21.13.56:929][989]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.12-21.14.23:213][ 34]LogEditorTransaction: Undo Paste Component(s)
+[2022.04.12-21.14.23:231][ 34]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.14.23:239][ 34]LogMaterial: Display: Missing cached shader map for material Item, compiling. 
+[2022.04.12-21.14.23:256][ 34]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.04.12-21.14.23:256][ 34]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.04.12-21.14.23:256][ 34]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.04.12-21.14.23:256][ 34]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.12-21.14.23:263][ 34]LogMaterial: Display: Missing cached shader map for material Item, compiling. 
+[2022.04.12-21.14.23:273][ 34]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.14.23:813][ 47]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2022.04.12-21.14.23:978][ 57]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2022.04.12-21.14.24:104][ 64]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2022.04.12-21.14.24:121][ 65]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2022.04.12-21.14.24:444][ 76]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2022.04.12-21.14.24:521][ 79]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2022.04.12-21.14.24:712][ 87]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.04.12-21.14.24:735][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2022.04.12-21.14.24:799][ 91]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2022.04.12-21.14.24:827][ 92]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.14.24:827][ 92]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.14.24:827][ 92]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.14.24:827][ 92]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.12-21.14.25:128][103]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2022.04.12-21.14.25:168][105]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2022.04.12-21.14.25:245][108]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2022.04.12-21.14.25:417][114]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2022.04.12-21.14.25:543][119]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2022.04.12-21.14.25:807][131]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2022.04.12-21.14.25:909][135]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.04.12-21.14.25:946][137]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.04.12-21.14.26:028][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.14.26:030][141]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.14.26:030][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.14.26:030][141]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.14.26:030][141]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.12-21.14.27:677][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.12-21.14.28:135][227]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.12-21.14.28:509][245]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.12-21.14.28:761][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.12-21.15.04:200][829]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.12-21.15.04:208][829]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.12-21.15.04:209][829]LogPlayLevel: [PlayLevel] Compiling Heal before play...
+[2022.04.12-21.15.04:251][829]LogPlayLevel: [PlayLevel] Compiling ThirdPersonExampleMap before play...
+[2022.04.12-21.15.04:329][829]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.04.12-21.15.04:331][829]LogPlayLevel: PlayLevel: Blueprint regeneration took 123 ms (2 blueprints)
+[2022.04.12-21.15.04:331][829]PIE: New page: PIE session: ThirdPersonExampleMap (12 Apr 2022, 23:15:04)
+[2022.04.12-21.15.04:331][829]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.04:345][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013423s)
+[2022.04.12-21.15.04:346][829]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-21.15.04:346][829]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2022.04.12-21.15.04:346][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015229s)
+[2022.04.12-21.15.04:400][829]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.04.12-21.15.04:401][829]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-21.15.04:401][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-21.15.04:401][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-21.15.04:402][829]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-21.15.04:402][829]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-21.15.04:406][829]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-21.15.04:406][829]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.12-21.15.04:419][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-21.15.04:419][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-21.15.04:433][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-21.15.04:433][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-21.15.04:433][829]LogInit: FAudioDevice initialized.
+[2022.04.12-21.15.04:433][829]LogAudio: Display: Audio Device (ID: 82) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-21.15.04:486][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.04:487][829]LogLoad: Game class is 'GameModeBase'
+[2022.04.12-21.15.04:491][829]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-22.15.04
+[2022.04.12-21.15.04:492][829]LogWorld: Bringing up level for play took: 0.004638
+[2022.04.12-21.15.04:493][829]LogOnline: OSS: Creating online subsystem instance for: :Context_118
+[2022.04.12-21.15.04:495][829]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.12-21.15.04:498][829]PIE: Server logged in
+[2022.04.12-21.15.04:500][829]PIE: Play in editor total start time 0.294 seconds.
+[2022.04.12-21.15.06:102][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.06:102][922]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.06:103][922]LogSlate: Window 'DesignTestPrototype Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.12-21.15.06:109][922]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.15.06:109][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.06:127][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-21.15.06:140][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.06:185][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-21.15.06:185][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.06:186][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.06:207][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.04.12-21.15.06:260][923]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2022.04.12-21.15.24:255][338]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.15.24:342][338]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.04.12-21.15.24:789][362]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal2AF954FC4852CB2158197EB0F47215DE.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.15.24:808][362]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.15.24:808][362]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.15.25:541][417]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.12-21.15.25:548][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.12-21.15.25:548][417]PIE: New page: PIE session: ThirdPersonExampleMap (12 Apr 2022, 23:15:25)
+[2022.04.12-21.15.25:548][417]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.25:561][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013340s)
+[2022.04.12-21.15.25:562][417]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-21.15.25:563][417]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2022.04.12-21.15.25:563][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015101s)
+[2022.04.12-21.15.25:621][417]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.04.12-21.15.25:623][417]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-21.15.25:623][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-21.15.25:623][417]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-21.15.25:623][417]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-21.15.25:627][417]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-21.15.25:627][417]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.12-21.15.25:640][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-21.15.25:640][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-21.15.25:654][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-21.15.25:654][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-21.15.25:654][417]LogInit: FAudioDevice initialized.
+[2022.04.12-21.15.25:654][417]LogAudio: Display: Audio Device (ID: 83) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-21.15.25:702][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.25:703][417]LogLoad: Game class is 'GameModeBase'
+[2022.04.12-21.15.25:707][417]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-22.15.25
+[2022.04.12-21.15.25:708][417]LogWorld: Bringing up level for play took: 0.004359
+[2022.04.12-21.15.25:709][417]LogOnline: OSS: Creating online subsystem instance for: :Context_119
+[2022.04.12-21.15.25:711][417]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.12-21.15.25:714][417]PIE: Server logged in
+[2022.04.12-21.15.25:716][417]PIE: Play in editor total start time 0.17 seconds.
+[2022.04.12-21.15.26:742][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.26:742][476]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.26:744][476]LogSlate: Window 'DesignTestPrototype Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.12-21.15.26:750][476]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.15.26:751][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.26:761][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-21.15.26:775][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.26:823][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-21.15.26:823][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.26:824][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.26:844][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.04.12-21.15.26:894][477]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2022.04.12-21.15.30:539][752]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.12-21.15.30:544][752]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.12-21.15.30:545][752]LogPlayLevel: [PlayLevel] Compiling Heal before play...
+[2022.04.12-21.15.30:637][752]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2022.04.12-21.15.30:638][752]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (1 blueprints)
+[2022.04.12-21.15.30:638][752]PIE: New page: PIE session: ThirdPersonExampleMap (12 Apr 2022, 23:15:30)
+[2022.04.12-21.15.30:638][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.30:652][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013761s)
+[2022.04.12-21.15.30:653][752]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-21.15.30:654][752]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2022.04.12-21.15.30:654][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015468s)
+[2022.04.12-21.15.30:708][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.04.12-21.15.30:709][752]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-21.15.30:709][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-21.15.30:709][752]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-21.15.30:709][752]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-21.15.30:713][752]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-21.15.30:713][752]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-21.15.30:725][752]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.12-21.15.30:725][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-21.15.30:725][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-21.15.30:725][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-21.15.30:726][752]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.12-21.15.30:726][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-21.15.30:726][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-21.15.30:738][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-21.15.30:738][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-21.15.30:738][752]LogInit: FAudioDevice initialized.
+[2022.04.12-21.15.30:738][752]LogAudio: Display: Audio Device (ID: 84) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-21.15.30:785][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.30:785][752]LogLoad: Game class is 'GameModeBase'
+[2022.04.12-21.15.30:789][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-22.15.30
+[2022.04.12-21.15.30:789][752]LogWorld: Bringing up level for play took: 0.003671
+[2022.04.12-21.15.30:790][752]LogOnline: OSS: Creating online subsystem instance for: :Context_120
+[2022.04.12-21.15.30:792][752]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.12-21.15.30:795][752]PIE: Server logged in
+[2022.04.12-21.15.30:797][752]PIE: Play in editor total start time 0.254 seconds.
+[2022.04.12-21.15.40:802][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.15.40:802][430]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.15.40:803][430]LogSlate: Window 'DesignTestPrototype Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.12-21.15.40:809][430]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.15.40:810][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.40:820][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-21.15.40:835][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.40:881][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.40:882][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.15.40:902][430]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.04.12-21.15.40:953][431]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2022.04.12-21.15.52:087][209]LogSlate: Window 'Message' being destroyed
+[2022.04.12-21.15.52:093][209]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Item.Item
+(Selecting 'No' will cause all changes to be lost!)
+[2022.04.12-21.15.52:584][209]LogMaterial: Display: Missing cached shader map for material Item, compiling. 
+[2022.04.12-21.15.52:632][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.12-21.15.52:632][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.15.52:632][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.04.12-21.15.52:632][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.04.12-21.15.52:641][209]LogMaterial: Display: Missing cached shader map for material Item, compiling. 
+[2022.04.12-21.15.52:720][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.04.12-21.15.52:729][209]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.12-21.15.53:292][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.04.12-21.15.53:292][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.04.12-21.15.53:852][209]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.04.12-21.15.54:061][209]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.12-21.15.54:061][209]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.04.12-21.15.54:065][209]TextureStreamingBuild: Display: Compiling optional shaders took 1.344 seconds.
+[2022.04.12-21.15.54:133][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.12-21.15.54:196][209]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.15.54:196][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.15.54:642][226]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.04.12-21.15.55:021][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.04.12-21.16.21:302][469]LogEditorTransaction: Undo Delete current selection
+[2022.04.12-21.16.21:314][469]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.16.21:329][469]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.12-21.16.21:329][469]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.16.21:329][469]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.04.12-21.16.21:329][469]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.04.12-21.16.21:341][469]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.16.21:858][481]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.12-21.16.22:019][492]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.04.12-21.16.22:111][498]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.12-21.16.22:140][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.04.12-21.16.22:423][518]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.04.12-21.16.22:482][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.04.12-21.16.22:747][537]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.04.12-21.16.22:763][538]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.04.12-21.16.22:835][543]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.04.12-21.16.22:855][544]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.16.22:855][544]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.16.22:855][544]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.16.22:855][544]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.12-21.16.23:434][581]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.12-21.16.23:916][612]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.12-21.16.33:154][408]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal5218EF624842579A487DEAA11D2239A3.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.16.33:173][408]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.16.33:173][408]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.16.33:519][435]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.16.33:521][435]LogBlueprint: Warning: [AssetLog] C:\Users\lyras\Documents\Unreal Projects\Binding-Of-Isaac-Design-Test\DesignTestPrototype\Content\Blueprints\Heal.uasset: [Compiler] Could not find a variable named "Player" in 'Heal_C'.
+Make sure 'Heal_C' has been compiled for  Set Player
+[2022.04.12-21.16.33:522][435]LogBlueprint: Error: [AssetLog] C:\Users\lyras\Documents\Unreal Projects\Binding-Of-Isaac-Design-Test\DesignTestPrototype\Content\Blueprints\Heal.uasset: [Compiler] The property associated with  Player  could not be found in '/Game/Blueprints/Heal.Heal_C'
+[2022.04.12-21.16.33:618][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2022.04.12-21.16.38:500][834]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.16.38:585][834]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.04.12-21.16.38:957][854]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal9E902AE74C6F87EF2D4593BCAC836F79.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.16.38:975][854]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.16.38:975][854]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.16.48:136][534]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.16.48:223][534]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2022.04.12-21.16.48:640][560]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal2BABBFF54C61476B7F973AA0038B04B7.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.16.48:658][560]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.16.48:658][560]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.17.13:888][745]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.17.13:973][745]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2022.04.12-21.17.14:418][775]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal0B927C784F263E3F6F562A9DAB05E187.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.17.14:438][775]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.17.14:438][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.20.06:898][342]LogEditorTransaction: Undo Move Node
+[2022.04.12-21.20.06:910][342]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.20.06:930][342]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.04.12-21.20.06:930][342]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.04.12-21.20.06:930][342]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.04.12-21.20.06:930][342]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.04.12-21.20.06:938][342]LogMaterial: Display: Missing cached shader map for material Heal, compiling. 
+[2022.04.12-21.20.07:481][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.04.12-21.20.07:663][363]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.04.12-21.20.07:739][367]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.12-21.20.07:827][372]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.04.12-21.20.08:144][389]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.04.12-21.20.08:212][393]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2022.04.12-21.20.08:421][405]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.04.12-21.20.08:421][405]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.04.12-21.20.08:535][412]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.04.12-21.20.08:563][413]MaterialEditorStats: Base pass shader: 118 instructions
+[2022.04.12-21.20.08:563][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2022.04.12-21.20.08:563][413]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.12-21.20.08:563][413]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.12-21.20.09:169][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.12-21.20.09:567][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.12-21.22.45:854][209]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.22.45:949][209]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2022.04.12-21.22.46:779][265]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/HealEAC5580D49B77FA9A471139567158F94.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.22.46:799][265]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.22.46:799][265]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.22.47:459][316]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.12-21.22.47:466][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.12-21.22.47:466][316]PIE: New page: PIE session: ThirdPersonExampleMap (12 Apr 2022, 23:22:47)
+[2022.04.12-21.22.47:466][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.22.47:480][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013469s)
+[2022.04.12-21.22.47:482][316]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-21.22.47:483][316]LogPlayLevel: PIE: World Init took: (0.002676s)
+[2022.04.12-21.22.47:483][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016292s)
+[2022.04.12-21.22.47:539][316]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2022.04.12-21.22.47:540][316]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-21.22.47:540][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-21.22.47:540][316]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-21.22.47:540][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-21.22.47:545][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-21.22.47:545][316]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-21.22.47:557][316]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.12-21.22.47:558][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-21.22.47:558][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-21.22.47:558][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-21.22.47:558][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.12-21.22.47:558][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-21.22.47:558][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-21.22.47:572][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-21.22.47:572][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-21.22.47:572][316]LogInit: FAudioDevice initialized.
+[2022.04.12-21.22.47:572][316]LogAudio: Display: Audio Device (ID: 85) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-21.22.47:623][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.22.47:624][316]LogLoad: Game class is 'GameModeBase'
+[2022.04.12-21.22.47:628][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-22.22.47
+[2022.04.12-21.22.47:629][316]LogWorld: Bringing up level for play took: 0.004673
+[2022.04.12-21.22.47:630][316]LogOnline: OSS: Creating online subsystem instance for: :Context_121
+[2022.04.12-21.22.47:633][316]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.12-21.22.47:636][316]PIE: Server logged in
+[2022.04.12-21.22.47:637][316]PIE: Play in editor total start time 0.174 seconds.
+[2022.04.12-21.22.50:028][472]LogBlueprintUserMessages: [Heal_2] Health is already full!
+[2022.04.12-21.22.51:917][600]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.22.51:917][600]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.22.51:917][600]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.22.51:917][600]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.22.57:129][954]LogBlueprintUserMessages: [Heal_2] Health is already full!
+[2022.04.12-21.22.57:582][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.22.57:582][983]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.22.57:583][983]LogSlate: Window 'DesignTestPrototype Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.12-21.22.57:592][983]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.22.57:593][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.22.57:627][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-21.22.57:644][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.22.57:691][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.22.57:692][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.22.57:713][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.04.12-21.22.57:754][984]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2022.04.12-21.23.07:674][831]BlueprintLog: New page: Compile Heal
+[2022.04.12-21.23.07:765][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2022.04.12-21.23.08:174][856]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/Heal13766286464309958EE14DB4801F952E.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Blueprints/Heal.uasset'
+[2022.04.12-21.23.08:209][856]AssetCheck: New page: Asset Save: Heal
+[2022.04.12-21.23.08:209][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Heal.Heal
+[2022.04.12-21.23.08:788][903]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.12-21.23.08:795][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.12-21.23.08:795][903]PIE: New page: PIE session: ThirdPersonExampleMap (12 Apr 2022, 23:23:08)
+[2022.04.12-21.23.08:795][903]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.23.08:810][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014496s)
+[2022.04.12-21.23.08:811][903]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.12-21.23.08:811][903]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2022.04.12-21.23.08:811][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016088s)
+[2022.04.12-21.23.08:870][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2022.04.12-21.23.08:871][903]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.12-21.23.08:871][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.12-21.23.08:871][903]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.12-21.23.08:871][903]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.12-21.23.08:875][903]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.12-21.23.08:875][903]LogAudioMixer: Display: 1: FrontRight
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.12-21.23.08:888][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.12-21.23.08:888][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.12-21.23.08:903][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.12-21.23.08:903][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.12-21.23.08:903][903]LogInit: FAudioDevice initialized.
+[2022.04.12-21.23.08:903][903]LogAudio: Display: Audio Device (ID: 86) registered with world 'ThirdPersonExampleMap'.
+[2022.04.12-21.23.08:957][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.23.08:957][903]LogLoad: Game class is 'GameModeBase'
+[2022.04.12-21.23.08:961][903]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.04.12-22.23.08
+[2022.04.12-21.23.08:962][903]LogWorld: Bringing up level for play took: 0.004119
+[2022.04.12-21.23.08:963][903]LogOnline: OSS: Creating online subsystem instance for: :Context_122
+[2022.04.12-21.23.08:965][903]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.04.12-21.23.08:968][903]PIE: Server logged in
+[2022.04.12-21.23.08:970][903]PIE: Play in editor total start time 0.176 seconds.
+[2022.04.12-21.23.10:657][ 16]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.10:657][ 16]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.10:657][ 16]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.10:657][ 16]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.13:998][254]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.13:998][254]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.13:998][254]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.13:998][254]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:261][273]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:261][273]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:261][273]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:261][273]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:963][321]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:963][321]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:963][321]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.14:963][321]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.15:256][342]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.15:256][342]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.15:256][342]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.15:256][342]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.04.12-21.23.16:262][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.12-21.23.16:262][413]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.04.12-21.23.16:263][413]LogSlate: Window 'DesignTestPrototype Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.04.12-21.23.16:270][413]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.12-21.23.16:270][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.23.16:295][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.12-21.23.16:309][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.12-21.23.16:354][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.12-21.23.16:355][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.23.16:355][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.12-21.23.16:375][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.04.12-21.23.16:417][414]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2022.04.12-21.23.22:705][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.04.12-21.23.22:736][985]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMap8A78751A40B8D874373F0DA31F212413.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.04.12-21.23.22:845][985]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ThirdPersonExampleMap_BuiltData503F305A47260182C0A206B31ED1B9FD.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.12-21.23.22:866][985]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.12-21.23.22:866][985]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.12-21.23.22:866][985]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.12-21.23.25:544][127]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.04.12-21.23.25:591][127]LogSavePackage: Moving '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Saved/ItemD4E974B841DCFD5CEB9A8AA7EDCA74E7.tmp' to '../../../../../../Users/lyras/Documents/Unreal Projects/Binding-Of-Isaac-Design-Test/DesignTestPrototype/Content/Materials/Item.uasset'
+[2022.04.12-21.23.25:610][127]AssetCheck: New page: Asset Save: Item
+[2022.04.12-21.23.25:610][127]LogContentValidation: Display: Validating Material /Game/Materials/Item.Item
